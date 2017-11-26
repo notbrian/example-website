@@ -2,3 +2,7 @@ body {
   /* Centers everything  */
   text-align: center;
 }
+
+img {
+  width: 200px;
+}
